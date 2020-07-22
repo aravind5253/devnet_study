@@ -1,1 +1,3 @@
 This is the first file on my git repo
+i have added it to repo
+-letters further testing in progress
