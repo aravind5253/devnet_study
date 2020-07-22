@@ -1,3 +1,6 @@
 This is the first file on my git repo
 i have added it to repo
+
 -letters further testing in progress at 12:49
+
+i am gonna stash it for the time being
